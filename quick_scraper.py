@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import csv
 from bs4 import BeautifulSoup
+import matplotlib.pyplot as plt
 
 #canada data
 url = 'https://virihealth.com/'
